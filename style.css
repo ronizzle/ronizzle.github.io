@@ -111,6 +111,7 @@ body {
 }
 
 #doc2 {
+    margin-top: 3%;
     width: 88%;
 }
 
@@ -631,4 +632,12 @@ a#pdf:hover {
 
 .yui-gf div.first {
     width: 12.3%;
+}
+
+.contact-info-link{
+    text-decoration: none !important;
+}
+
+.contact-info-link:hover {
+    color: #333333;
 }
